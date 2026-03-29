@@ -13,8 +13,8 @@
 - 📂 Repository Structure
 - 📁 Folder Details
 - 📜 Notebook Descriptions
-- 🔍 Linear Search — Recursive Flowchart
-- 🔎 Binary Search — Recursive Flowchart
+- 🔍 Linear Search - Recursive Flowchart
+- 🔎 Binary Search - Recursive Flowchart
 - ⚡ Complexity Comparison
 - ⚙️ How to Use
 - 🌟 Key Highlights
@@ -27,7 +27,7 @@
 
 This repository is **Part 4** of the Python Advance Complete Tutorial series.
 
-It covers **Searching Algorithms** implemented entirely through **Recursion** — reinforcing both algorithmic thinking and recursive problem solving simultaneously.
+It covers **Searching Algorithms** implemented entirely through **Recursion** - reinforcing both algorithmic thinking and recursive problem solving simultaneously.
 
 You will learn:
 - How to recursively scan every element to find a target (Linear Search)
