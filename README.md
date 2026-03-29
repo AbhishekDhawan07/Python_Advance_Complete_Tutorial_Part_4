@@ -38,8 +38,9 @@ You will learn:
 # 📂 Repository Structure 🗂️
 
 ```
-Python_Advance_Complete_Tutorial_Part_4/
-└── Searching Algorithms in Python/
+├──📄 README.md
+📂 Python_Advance_Complete_Tutorial_Part_4/
+└── 📂 Searching Algorithms in Python/
     ├── Python Linear Search.ipynb
     └── Python Binary Search.ipynb
 ```
